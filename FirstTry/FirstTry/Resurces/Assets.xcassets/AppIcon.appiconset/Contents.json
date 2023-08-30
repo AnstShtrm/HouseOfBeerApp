@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "preview_image20200905-25622-5nhn.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
